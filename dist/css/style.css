@@ -6090,7 +6090,7 @@ header {
     float: right;
     list-style: none;
     height: inherit;
-    line-height: inherit;
+    line-height: 1.7;
     padding: 0 50px; }
     .navbar ul li {
       display: inline-block;
